@@ -22,6 +22,19 @@
   color: #61dafb;
 }
 
+h1,h2{
+  color: white !important;
+}
+input{
+  margin: 15px !important;
+}
+
+.Margin{
+  margin: 15px !important;
+}
+.Width{
+  width: 20%;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
